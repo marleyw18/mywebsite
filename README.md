@@ -1,1 +1,1 @@
-My first website I ever coded myself
+My first website!
